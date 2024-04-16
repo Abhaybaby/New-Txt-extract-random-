@@ -1,14 +1,14 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader 『ᎷΔŞŦᏋᏒ』BOT",
+    "name": "𝐓𝐞𝐱𝐭 Uploader 『Perfect Smile 🇮🇳』BOT",
     "description": "Download videos from various websites using this telegram bot",
-    "logo": "https://telegra.ph/file/0eca3245df8a40c7e68d4.jpg",
+    "logo": "https://graph.org/file/67abd5292e90e66de8090.jpg",
     "keywords": [
         "text-video",
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/NtrRaz/",
-    "success_url": "https://telegram.me/classtubeofficial",
+    "repository": "https://github.com/Ashish1437/New-Txt-extract-random-",
+    "success_url": "https://t.me/Student_Studys_Group",
     "stack": "container",
     "env": {
         "API_ID": {
